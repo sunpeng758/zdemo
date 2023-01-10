@@ -1,0 +1,12 @@
+{
+  "name": "{{ name }}",
+  "version": "0.1.0",
+  "description": "{{ description }}",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+  },
+  "keywords": [],
+  "author": "{{ author }}",
+  "license": "ISC",
+}
